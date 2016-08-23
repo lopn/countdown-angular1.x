@@ -1,0 +1,24 @@
+{
+  "name": "countdown-angular1.x",
+  "main": "ng-ticker.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/lopn/countdown-angular1.x",
+  "authors": [
+    "Xingrupeng <lopnxrp@126.com>"
+  ],
+  "description": "Angular JS 1.x countdown service",
+  "moduleType": [],
+  "keywords": [
+    "countdown",
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7"
+  }
+}
