@@ -2,7 +2,7 @@
   "name": "countdown-angular1.x",
   "version": "1.0.0",
   "description": "Angular JS 1.x countdown service",
-  "main": "ng-ticker.js",
+  "main": "dist/countdown.min.js",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-uglifyjs": "^0.6.2"
