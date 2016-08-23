@@ -14,9 +14,16 @@
   ],
   "license": "MIT",
   "ignore": [
-    "**/.*",
     "node_modules",
-    "bower_components"
+    "bower_components",
+    "src",
+    "test",
+    "package.json",
+    "gruntfile.js",
+    "gulpfile.js",
+    ".git",
+    ".idea",
+    ".txt"
   ],
   "dependencies": {
     "angular": "~1"
